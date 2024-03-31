@@ -87,6 +87,7 @@ body {
   font-size: 23px;
   font-family: nunito;
   color: #4ad66d;
+  width: 560px;
 }
 /*end of section2*/
 /*beginning of section3*/
@@ -305,6 +306,8 @@ input:focus {
   /*for section2*/
   #section2 {
     flex-direction: column;
+
+    padding: 100px 20px 100px 20px;
   }
   #avatar {
     height: 60px;
@@ -319,6 +322,7 @@ input:focus {
   }
   .section2-2 div {
     font-size: 20px;
+    width: 330px;
   }
   /*for section3*/
   .section3 {
