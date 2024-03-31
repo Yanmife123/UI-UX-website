@@ -1,0 +1,10 @@
+green color = #2DC653
+blackish grey color = #0D0D0D
+black = #000000
+dark green = #10451d
+light green = #6ede8a
+medium green = #92e6a7
+for button = 16px 
+h1 = 80px 
+img = width 85px , 88 height
+ #4AD66D
